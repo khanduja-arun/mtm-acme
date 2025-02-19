@@ -1,0 +1,14 @@
+/Users/arunkhanduja/Desktop/mtm/mtm-acme/Acme/bin/Debug/net8.0/Acme
+/Users/arunkhanduja/Desktop/mtm/mtm-acme/Acme/bin/Debug/net8.0/Acme.deps.json
+/Users/arunkhanduja/Desktop/mtm/mtm-acme/Acme/bin/Debug/net8.0/Acme.runtimeconfig.json
+/Users/arunkhanduja/Desktop/mtm/mtm-acme/Acme/bin/Debug/net8.0/Acme.dll
+/Users/arunkhanduja/Desktop/mtm/mtm-acme/Acme/bin/Debug/net8.0/Acme.pdb
+/Users/arunkhanduja/Desktop/mtm/mtm-acme/Acme/obj/Debug/net8.0/Acme.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arunkhanduja/Desktop/mtm/mtm-acme/Acme/obj/Debug/net8.0/Acme.AssemblyInfoInputs.cache
+/Users/arunkhanduja/Desktop/mtm/mtm-acme/Acme/obj/Debug/net8.0/Acme.AssemblyInfo.cs
+/Users/arunkhanduja/Desktop/mtm/mtm-acme/Acme/obj/Debug/net8.0/Acme.csproj.CoreCompileInputs.cache
+/Users/arunkhanduja/Desktop/mtm/mtm-acme/Acme/obj/Debug/net8.0/Acme.dll
+/Users/arunkhanduja/Desktop/mtm/mtm-acme/Acme/obj/Debug/net8.0/refint/Acme.dll
+/Users/arunkhanduja/Desktop/mtm/mtm-acme/Acme/obj/Debug/net8.0/Acme.pdb
+/Users/arunkhanduja/Desktop/mtm/mtm-acme/Acme/obj/Debug/net8.0/Acme.genruntimeconfig.cache
+/Users/arunkhanduja/Desktop/mtm/mtm-acme/Acme/obj/Debug/net8.0/ref/Acme.dll
