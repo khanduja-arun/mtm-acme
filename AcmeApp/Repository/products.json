@@ -1,0 +1,7 @@
+[
+    { "name": "Hat", "price": 10.50, "category": "Clothing" },
+    { "name": "Jumper", "price": 54.65, "category": "Clothing" },
+    { "name": "Head Light", "price": 3.50, "category": "Head Gear" },
+    { "name": "£30 Gift Voucher", "price": 30.00, "category": "Gift Voucher" },
+    { "name": "Nike Air", "price": 32.75, "category": "Footwear" }
+]

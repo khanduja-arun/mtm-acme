@@ -1,0 +1,11 @@
+{
+    "giftVouchers": [
+        { "code": "GV-5", "value": 5.00 },
+        { "code": "GV-10", "value": 10.00 }
+    ],
+    "offerVouchers": [
+        { "code": "OV-5-HG", "value": 5.00, "threshold": 50.00, "categoryRestriction": "Head Gear" },
+        { "code": "OV-10-CL", "value": 10.00, "threshold": 75.00, "categoryRestriction": "Clothing" },
+        { "code": "OV-2.5-NLL", "value": 2.50, "threshold": 30.00, "categoryRestriction": null }
+    ]
+}
